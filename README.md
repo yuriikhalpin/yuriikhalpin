@@ -4,4 +4,6 @@
 
 Привет, меня зовут Юрий, я SRE/DevOps.
 
+Для связи yurii@khalpin.ru
+
 <br />
