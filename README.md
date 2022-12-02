@@ -2,7 +2,7 @@
 
 <br/>
 
-Привет, меня зовут Юрий, я Java разработчик в проекте FX4Cash: https://corporates.db.com/solutions/investment-bank-solutions/Foreign-exchange/fx4cash
+Привет, меня зовут Юрий, я Java разработчик в проекте Deutsche Bank FX4Cash: https://corporates.db.com/solutions/investment-bank-solutions/Foreign-exchange/fx4cash
 
 Для связи yurii@khalpin.ru
 
@@ -14,7 +14,7 @@
 
 <br/>
 
-Hi, my name is Yurii, I am a Java developer at FX4Cash project: https://corporates.db.com/solutions/investment-bank-solutions/Foreign-exchange/fx4cash
+Hi, my name is Yurii, I am a Software developer(Java) at Deutsche Bank FX4Cash project: https://corporates.db.com/solutions/investment-bank-solutions/Foreign-exchange/fx4cash
 
 Contacts: yurii@khalpin.ru
 
